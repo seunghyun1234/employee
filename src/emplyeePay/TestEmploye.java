@@ -50,7 +50,6 @@ public class TestEmploye {
 			}
 			case 2:{
 				System.out.println("부서, 업무, 월 임금...");
-				System.out.println("qkqh");
 				String us1= in.next();
 				String uss1= in.next();
 				int mon1 = in.nextInt();
